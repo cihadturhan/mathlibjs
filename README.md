@@ -3,7 +3,7 @@ mathlibjs
 
 Mathlib.js is a converted version of [codes in Shodor Education Foundation Library](http://www.shodor.org/cserd/Resources/Libraries/)
 
-Currently, it's consisting of
+Currently, it consists of
 
 1.General Math functions like 
 
